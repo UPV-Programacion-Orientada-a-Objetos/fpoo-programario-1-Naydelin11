@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7c00aa7-b679-44e0-bb19-3b7295a6178b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../10.Modista/edu/upvictoria/fpoo/ProblemaDiez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.Modista/edu/upvictoria/fpoo/operacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Dospuntos/operacionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.SueldoSemanal/ProblemaNueve/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.SueldoSemanal/edu/upvictoria/fpoo/ProblemaNueve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.SueldoSemanal/edu/upvictoria/fpoo/semanal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Dospuntos/ProblemaOcho.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Dospuntos/ProblemaOcho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Dospuntos/operacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Dospuntos/operacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2bZ9cV1FS0S7ye877QUdia9a3dr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/naydelinpink/Escritorio/PROGRAMARIO1/src/main/java/edu/upvictoria/fpoo/11.Conagua",
+    "onboarding.tips.debug.path": "/home/naydelinpink/Escritorio/PROGRAMARIO1/src/main/java/edu/upvictoria/fpoo/11.Conagua/ProblemaOnce/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-3c5dfc45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c00aa7-b679-44e0-bb19-3b7295a6178b" name="Changes" comment="" />
+      <created>1706411814465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706411814465</updated>
+    </task>
+    <servers />
+  </component>
+</project>
