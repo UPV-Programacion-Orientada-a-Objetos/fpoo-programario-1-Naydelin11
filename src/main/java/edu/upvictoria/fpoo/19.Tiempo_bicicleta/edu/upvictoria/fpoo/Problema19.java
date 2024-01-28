@@ -18,7 +18,7 @@ import java.io.IOException;
             String innVelocidad = bufferedReader.readLine();
             double velocidad = Double.parseDouble(innVelocidad);
 
-            
+
             double tiempo = CalculoTiempo.calcularTiempo(distancia, velocidad);
 
             System.out.println("El tiempo estimado de viaje es: " + tiempo + " horas");
