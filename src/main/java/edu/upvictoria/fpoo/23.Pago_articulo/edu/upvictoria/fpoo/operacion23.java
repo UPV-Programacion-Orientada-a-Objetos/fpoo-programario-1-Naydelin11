@@ -2,7 +2,7 @@ package edu.upvictoria.fpoo;
 
 import java.io.IOException;
 
-public class operacion {
+public class operacion23 {
 
     public static double CalcularProducto(double articulo, int IVA, int descuento) throws IOException {
 

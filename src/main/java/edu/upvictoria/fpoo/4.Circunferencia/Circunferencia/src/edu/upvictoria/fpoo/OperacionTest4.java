@@ -11,7 +11,7 @@ public class OperacionTest4 {
         double radio = 5.0;
 
 
-        double resultado = operacion.calcularArea(radio);
+        double resultado = operacion4.calcularArea(radio);
 
 
         assertEquals(78.54, resultado, 0.01);

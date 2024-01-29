@@ -19,7 +19,7 @@ public class Problema12 {
          System.out.println("Dame la altura del triangulo: ");
          double h= Double.parseDouble(bufferedReader.readLine());
 
-         double area= operacion.calcularArea(b,h);
+         double area= operacion12.calcularArea(b,h);
          System.out.println("El area del triangulo es: "+area);
      } catch (IOException e) {
          throw new RuntimeException(e);

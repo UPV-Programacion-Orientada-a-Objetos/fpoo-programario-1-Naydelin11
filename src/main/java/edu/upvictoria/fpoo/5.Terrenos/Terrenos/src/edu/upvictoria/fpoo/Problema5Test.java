@@ -7,7 +7,7 @@ public class Problema5Test {
 
     @Test
     public void testCalcularAB() {
-        double result = operacion.CalcularAB(3.0, 4.0);
+        double result = operacion5.CalcularAB(3.0, 4.0);
         assertEquals(6.0, result, 0.0001);
     }
 

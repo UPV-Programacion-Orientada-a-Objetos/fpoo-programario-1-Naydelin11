@@ -27,7 +27,7 @@ public class Problema5 {
             double area;
             if (C == 0) {
 
-                area = operacion.CalcularAB(A, B);
+                area = operacion5.CalcularAB(A, B);
             } else {
 
                 area = C_op.CalcularC(A, B, C);

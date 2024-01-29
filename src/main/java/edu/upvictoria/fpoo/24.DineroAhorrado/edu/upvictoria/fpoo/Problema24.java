@@ -20,7 +20,7 @@ public class Problema24 {
             System.out.println("Ingrese su sueldo mensual: ");
             double sueldo = Double.parseDouble(bufferedReader.readLine());
 
-            double ahorro = operacion.CalcularAhorro(sueldo, porcentaje);
+            double ahorro = operacion24.CalcularAhorro(sueldo, porcentaje);
 
             System.out.println("El ahorro por año es de: " + ahorro);
         } catch (IOException e) {

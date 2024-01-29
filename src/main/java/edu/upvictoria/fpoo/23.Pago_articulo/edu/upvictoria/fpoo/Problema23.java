@@ -21,7 +21,7 @@ public class Problema23 {
             int IVA = 15;
             int descuento = 20;
 
-            double precioFinal = operacion.CalcularProducto(articulo, IVA, descuento);
+            double precioFinal = operacion23.CalcularProducto(articulo, IVA, descuento);
             System.out.println("El precio final del producto es: $" + precioFinal);
         } catch (IOException e) {
             throw new RuntimeException(e);

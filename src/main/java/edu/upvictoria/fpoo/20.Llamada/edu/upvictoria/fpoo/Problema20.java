@@ -21,7 +21,7 @@ public class Problema20 {
             String incosto = bufferedReader.readLine();
             double costo = Double.parseDouble(incosto);
 
-            double total = Operacion.Calcularllamada(llamada, costo);
+            double total = Operacion20.Calcularllamada(llamada, costo);
 
             System.out.println("El costo de la llamada es:  " + total);
         } catch (IOException | NumberFormatException e) {

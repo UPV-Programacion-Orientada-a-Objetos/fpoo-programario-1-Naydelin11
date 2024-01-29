@@ -20,7 +20,7 @@ public class Problema4 {
             radio = Double.parseDouble(bufferedReader.readLine());
 
 
-            area = operacion.calcularArea(radio);
+            area = operacion4.calcularArea(radio);
 
             System.out.println("El área de una circunferencia es: " + area);
         } catch (IOException e) {

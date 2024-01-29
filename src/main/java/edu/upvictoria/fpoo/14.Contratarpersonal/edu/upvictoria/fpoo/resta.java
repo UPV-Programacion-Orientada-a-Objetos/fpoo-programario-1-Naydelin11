@@ -14,7 +14,7 @@ public class resta {
         System.out.println("¿Cumple años en Enero?\n 1.Si 0.No  ");
         opc = Boolean.parseBoolean(bufferedReader.readLine());
 
-        if (opc) {
+        if (opc=true) {
             resta = 2024;
         } else {
             resta = 2023;

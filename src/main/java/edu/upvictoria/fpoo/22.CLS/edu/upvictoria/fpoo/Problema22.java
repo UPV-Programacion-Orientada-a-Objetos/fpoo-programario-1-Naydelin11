@@ -19,7 +19,7 @@ public class Problema22 {
             System.out.println("Tarifa por kilowatt: ");
             double tarifa = Double.parseDouble(bufferedReader.readLine());
 
-            double pago = Operacion.calcularPago(consumoKW, tarifa);
+            double pago = Operacion22.calcularPago(consumoKW, tarifa);
 
             System.out.println("El pago por el consumo de energía es: $" + pago);
         } catch (IOException e) {

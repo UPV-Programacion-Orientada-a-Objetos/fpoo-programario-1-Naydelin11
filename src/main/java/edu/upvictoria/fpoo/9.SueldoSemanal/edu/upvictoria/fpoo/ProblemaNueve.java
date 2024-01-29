@@ -24,10 +24,10 @@ public class ProblemaNueve {
             String input2 = bufferedReader.readLine();
             int pagoPorHora = Integer.parseInt(input2);
 
-            // Llamada al método calcularSueldoSemanal de la clase Semanal
+
             double sueldo_semanal = semanal.calcularSueldoSemanal(horasSemana, pagoPorHora, sueldo_minimo);
 
-            // Mostrar el sueldo semanal
+
             System.out.println("El sueldo semanal del trabajador es: $" + sueldo_semanal);
 
         } catch (IOException e) {

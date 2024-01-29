@@ -16,7 +16,7 @@ public class ProblemaTrece {
             double peso = Double.parseDouble(bufferedReader.readLine());
 
 
-            double dolares = Operacion.DolarApesos(peso);
+            double dolares = Operacion13.DolarApesos(peso);
 
             System.out.println(peso + " pesos mexicanos equivalen a " + dolares + " dólares.");
         } catch (IOException e) {

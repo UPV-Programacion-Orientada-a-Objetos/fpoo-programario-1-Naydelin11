@@ -25,7 +25,7 @@ public class Problema17 {
             String inputB = bufferedReader.readLine();
             b = Double.parseDouble(inputB);
 
-            double hipotenusa = operacion.calcularTriangulo(a,b);
+            double hipotenusa = operacion17.calcularTriangulo(a,b);
 
             System.out.println("La hipotenusa del triángulo es: " + hipotenusa);
 

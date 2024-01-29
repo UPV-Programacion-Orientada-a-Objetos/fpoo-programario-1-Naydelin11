@@ -16,7 +16,7 @@ public class Problema6 {
 
         reader.close();
 
-        float area_total = operacion1.calcularArea(H, R);
+        float area_total = operacion1_6.calcularArea(H, R);
 
 
         System.out.println("El área total de la forma A es: " + area_total);

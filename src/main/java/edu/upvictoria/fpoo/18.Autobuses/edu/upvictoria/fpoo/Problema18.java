@@ -22,7 +22,7 @@ public class Problema18 {
             double costoPorKilometro = Double.parseDouble(CostoxKilometro);
 
 
-            double costoTotal = operacion.calcularCosto(distancia, costoPorKilometro);
+            double costoTotal = operacion18.calcularCosto(distancia, costoPorKilometro);
 
             System.out.println("El costo total del boleto es: $" + costoTotal);
 

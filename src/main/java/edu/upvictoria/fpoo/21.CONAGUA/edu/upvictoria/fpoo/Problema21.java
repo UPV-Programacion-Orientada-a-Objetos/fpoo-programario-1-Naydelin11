@@ -24,7 +24,7 @@ public class Problema21 {
             System.out.println("Tarifa por metro cúbico de agua: ");
             double tarifa = Double.parseDouble(bufferedReader.readLine());
 
-            double pago = Operacion.calcularPago(altura, base, profundidad, tarifa);
+            double pago = Operacion21.calcularPago(altura, base, profundidad, tarifa);
 
             System.out.println("El pago por el consumo de agua es: $" + pago);
         } catch (IOException e) {

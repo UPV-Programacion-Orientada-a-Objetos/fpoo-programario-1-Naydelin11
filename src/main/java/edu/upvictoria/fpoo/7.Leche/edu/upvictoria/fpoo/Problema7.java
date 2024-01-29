@@ -18,7 +18,7 @@ public class Problema7 {
             System.out.println("¿Cuántos litros de leche son tu producción de un día?  ");
             double litros = Double.parseDouble(bufferedReader.readLine());
 
-            double pago = operacion.CalcularGalones(litros, galon);
+            double pago = operacion7.CalcularGalones(litros, galon);
 
             String formattedPago = String.format("%.2f", pago);
             System.out.println("El pago de tu producción es de: $" + formattedPago);

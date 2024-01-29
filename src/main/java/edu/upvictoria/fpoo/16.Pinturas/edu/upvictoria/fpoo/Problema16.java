@@ -1,4 +1,3 @@
-
 package edu.upvictoria.fpoo;
 
 import java.io.BufferedReader;
@@ -12,9 +11,9 @@ public class Problema16 {
     }
 
     public static void main(String[] args) {
-        Operacion instanciaProblemaPintura = new Operacion();
+        Operacion16 instanciaProblemaPintura = new Operacion16();
 
-        double costoTotal = Operacion.calcularCosto();
+        double costoTotal = Operacion16.calcularCosto();
 
         System.out.println("El costo total por la pintura es: $" + costoTotal);
     }

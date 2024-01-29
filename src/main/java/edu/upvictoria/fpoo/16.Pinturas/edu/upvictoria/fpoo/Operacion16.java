@@ -4,9 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Operacion {
+public class Operacion16 {
 
-    public Operacion() {
+    public void Operacion() {
         System.out.println("Pinturas \"La brocha gorda\"");
     }
 

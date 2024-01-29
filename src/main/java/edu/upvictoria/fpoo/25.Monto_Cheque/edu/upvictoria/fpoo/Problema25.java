@@ -21,7 +21,7 @@ public class Problema25 {
             System.out.println("Ingrese el número de días que el empleado estará en Monterrey: ");
             int diasEnMonterrey = Integer.parseInt(bufferedReader.readLine());
 
-            double montoCheque = operacion.CalcularMontoCheque(sueldo, diasEnMonterrey);
+            double montoCheque = operacion25.CalcularMontoCheque(sueldo, diasEnMonterrey);
 
             System.out.println("El monto del cheque a proporcionar es de: $" + montoCheque);
         } catch (IOException e) {

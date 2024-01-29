@@ -17,8 +17,7 @@ public class ProblemaDiez {
             System.out.println("Metros de tela: ");
             double mts = Double.parseDouble(bufferedReader.readLine());
 
-            // Llamada al método calcular de la clase operacion
-            double pulgadas = operacion.calcular(mts);
+            double pulgadas = operacion10.calcular(mts);
             System.out.println("En total son " + pulgadas + " pulgadas");
 
         } catch (IOException e) {
