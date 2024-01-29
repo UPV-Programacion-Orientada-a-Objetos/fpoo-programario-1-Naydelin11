@@ -34,7 +34,7 @@ public class App {
                 if (opcion == 0) {
                     System.out.println("Saliendo del programa. ¡Hasta luego!");
                     break;
-                } else if (opcion >= 1 && opcion <= 8) {
+                } else if (opcion >= 1 && opcion <= 26) {
                     ejecutarProblema(opcion);
                 } else {
                     System.out.println("Opción no válida. Intente de nuevo.");
@@ -53,13 +53,104 @@ public class App {
                 problemaUno.ejecutar();
                 break;
             case 2:
-                ProblemaDos problemaDos = new ProblemaDos();
-                problemaDos.ejecutar();
+                Problema2 problema2 = new ProblemaDos();
+                problema2.ejecutar();
                 break;
-            // ... Agrega más casos según sea necesario
+            case 3:
+                Problema3 problema3 = new Problema3();
+                problema3.ejecutar();
+                break;
+            case 4:
+                Problema4 Problema4 = new Problema4();
+                Problema4.ejecutar();
+                break;
+            case 5:
+                Problema5 problema5 = new Problema5();
+                problema5.ejecutar();
+                break;
+            case 6:
+                Problema6 problema6 = new Problema6();
+                problema6.ejecutar();
+                break;
+            case 7:
+                Problema7 problema7 = new Problema7();
+                problema7.ejecutar();
+                break;
             case 8:
                 ProblemaOcho problemaOcho = new ProblemaOcho();
                 problemaOcho.ejecutar();
+                break;
+            case 9:
+                ProblemaNueve problemaNueve = new ProblemaNueve();
+                problemaNueve.ejecutar();
+                break;
+            case 10:
+                ProblemaDiez problemaDiez = new ProblemaDiez();
+                problemaDiez.ejecutar();
+                break;
+            case 11:
+                ProblemaOnce problemaOnce = new ProblemaOnce();
+                problemaOnce.ejecutar();
+                break;
+            case 12:
+                ProblemaDoce problemaDoce = new ProblemaDoce();
+                problemaDoce.ejecutar();
+                break;
+            case 13:
+                ProblemaTrece problemaTrece = new ProblemaTrece();
+                problemaTrece.ejecutar();
+                break;
+            case 14:
+                Problema14 problema14 = new Problema14();
+                problema14.ejecutar();
+                break;
+            case 15:
+                Problema15 problema15 = new Problema15();
+                problema15.ejecutar();
+                break;
+            case 16:
+                Problema16 problema16 = new Problema16();
+                problema16.ejecutar();
+                break;
+            case 17:
+                Problema17 problema17 = new Problema17();
+                problema17.ejecutar();
+                break;
+            case 18:
+                Problema18 problema18 = new Problema18();
+                problema18.ejecutar();
+                break;
+            case 19:
+                Problema19 problema19 = new Problema19();
+                problema19.ejecutar();
+                break;
+            case 20:
+                Problema20 problema20 = new Problema20();
+                problema20.ejecutar();
+                break;
+            case 21:
+                Problema21 problema21 = new Problema21();
+                problema21.ejecutar();
+                break;
+            case 22:
+                Problema22 problema22= new Problema22();
+                problema22.ejecutar();
+                break;
+            case 23:
+                Problema23 problema23 = new Problema23();
+                problema23.ejecutar();
+                break;
+            case 24:
+                Problema24 problema24 = new Problema24();
+                problema24.ejecutar();
+                break;
+            case 25:
+                Problema25 problema25 = new Problema25();
+                problema25.ejecutar();
+                break;
+            case 26:
+                Problema26 problema26 = new Problema26();
+                problema26.ejecutar();
                 break;
             default:
                 System.out.println("Número de problema no reconocido.");

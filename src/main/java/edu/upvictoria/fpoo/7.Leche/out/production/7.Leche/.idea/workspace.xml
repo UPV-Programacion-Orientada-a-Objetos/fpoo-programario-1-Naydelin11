@@ -31,7 +31,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/edu/upvictoria/fpoo/Problema7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edu/upvictoria/fpoo/Problema7Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/edu/upvictoria/fpoo/operacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3.Area_rectangulo/rectangulo/src/area_rectangulo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../6.Tresfiguras/tresf/.gitignore" beforeDir="false" />
@@ -51,7 +50,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -69,33 +67,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Problema7.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.Problema7Test.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/naydelinpink/Escritorio/PROGRAMARIO1/src/main/java/edu/upvictoria/fpoo/8.Dospuntos",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "/home/naydelinpink/Escritorio/PROGRAMARIO1/src/main/java/edu/upvictoria/fpoo/7.Leche"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="edu.upvictoria.fpoo" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
